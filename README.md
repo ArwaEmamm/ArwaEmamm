@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-# 🙋‍♀️ Welcome to Arwa Emam's GitHub!
+# 🙋‍♀️ Welcome to Arwa Emam's GitHub
 
 - 🎓 I'm a Computer Science graduate from Assiut University.
 - 💻 Currently enrolled in the 9-Month Open Source Full-Stack Program at ITI Minya Branch.
