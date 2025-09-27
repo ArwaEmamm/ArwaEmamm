@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/arwa-emam)  
 📧 **Email:** arwaemam2002@gmail.com  
-🌍 **Location:** Minia, Egypt  
+🌍 **Location:** Cairo, Egypt  
 
 ---
 
