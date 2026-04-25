@@ -1,179 +1,235 @@
 <h1 align="center">Hi 👋 I'm Arwa Emam</h1>
-<h3 align="center">Full-Stack Web Developer | Open Source Track</h3>
+<h3 align="center">Full-Stack Developer | Backend-Focused | Open Source Track Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=25&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+Node+Laravel+Django;Building+Real+World+Projects">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=25&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+Node.js+React+Angular+Django;Building+Scalable+Production+Systems;RESTful+APIs+%7C+Workflow+Platforms+%7C+CRM+Systems">
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Professional Summary
 
-💻 Full-Stack Developer with hands-on experience building modern, responsive web applications.  
+Full-Stack Developer with strong experience in building scalable and secure web applications using **React, Angular, Node.js, Express, Laravel, and Django**.
 
-🎓 Graduate of **ITI – Open Source Full-Stack Track**  
+Experienced in developing:
 
-🚀 Built real-world projects including:
+- Modular Systems  
+- RESTful APIs  
+- Multi-role Platforms  
+- Workflow Automation Systems  
+- CRM Platforms  
+- Performance-Optimized Applications  
 
-- Job Boards  
-- Medical Systems  
-- Kindergarten Management Systems  
-- E-Learning Platforms  
-
-🌱 Passionate about:
-
-- Clean Architecture  
-- Agile Development  
-- Problem Solving  
-- Continuous Learning  
+Skilled in building **end-to-end production systems** from backend architecture to frontend integration and deployment.
 
 ---
 
-## 📬 Connect With Me
+## 💼 Professional Experience
 
-<p align="center">
+### 🏢 Backend Developer — Emcan Solutions (Full-Time)
 
-<a href="https://linkedin.com/in/arwa-emam">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
-</a>
-
-<a href="mailto:arwaemam2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge">
-</a>
-
-</p>
-
-📍 Location: Cairo, Egypt  
+- Developed scalable backend systems using **Laravel Modular Architecture**
+- Built secure APIs with authentication and role-based access control
+- Contributed to large-scale production platforms used by multiple users
+- Optimized database queries and improved system performance
+- Managed deployments using **cPanel** and **Azure**
+- Maintained live systems and implemented new features
 
 ---
 
-## 🛠 Tech Stack
+### 👩‍💻 Backend Developer
 
-### 💻 Front-End
-
-<p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-</p>
+- Developed CRM systems using **Laravel**
+- Designed RESTful API architecture
+- Implemented authentication and role-based systems
+- Built scalable workflow logic for business platforms
 
 ---
 
-### 🔧 Back-End
+### 🌐 Freelance Full-Stack Developer
 
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
-</p>
-
----
-
-### 🗃 Databases
-
-<p>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-
-</p>
-
----
-
-### ☁️ Tools & DevOps
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-
-</p>
+- Developed **Business Workflow Automation Platform**
+- Built backend for **Short Video Social Platform**
+- Integrated frontend with RESTful APIs
+- Deployed applications using Azure and FileZilla
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Medical System  
-**Tech:** React + Django  
+---
 
-📌 Features:  
-- Patient Management  
-- Appointment Booking  
-- Admin Dashboard  
+### 🎓 ITI Graduation Project — Social Hiring Platform
 
-🔗 Repo:  
-https://github.com/arwaemam2/Medical-system  
+**Frontend:** React  
+**Backend:** Laravel  
+
+📌 Features:
+
+- Social platform connecting ITI graduates  
+- Hiring system between candidates and HR  
+- Authentication & role-based system  
+- Modern responsive UI  
+- RESTful API integration  
+
+🔗 Frontend Repo:  
+https://github.com/ArwaEmamm/Graduation-Project-From-ITI-FrontEnd  
+
+🔗 Backend Repo:  
+https://github.com/ArwaEmamm/Graduation-Project-From-ITI-BackEnd  
 
 ---
 
-### 📚 E-Learning Platform  
-**Tech:** Vue.js + Node.js  
+### 🏢 Business Workflow Automation Platform
 
-📌 Features:  
-- Course Management  
-- Student Enrollment  
-- Quiz System  
+**Tech:** Node.js + Express + React  
 
-🔗 Repo:  
-https://github.com/arwaemam2/-e-learning-system  
+📌 Features:
 
----
+- Workflow and approval management system  
+- Role-based task automation  
+- Business process tracking  
+- Scalable RESTful API architecture  
 
-### 💼 Job Board System  
-**Tech:** Vue.js  
+🔗 Frontend Repo:  
+https://github.com/ArwaEmamm/Business-Workflow-Automation-Platform  
 
-📌 Features:  
-- Job Listings  
-- Employer Dashboard  
-- Applicant Tracking  
-
-🔗 Repo:  
-https://github.com/arwaemam2/job-board  
+🔗 Backend Repo:  
+https://github.com/ArwaEmamm/Business-Workflow-Automation-Platform-Back  
 
 ---
 
-### 🏫 Kindergarten System  
-**Tech:** Node.js  
+### 🍽 Cafeteria Management System
 
-📌 Features:  
-- Student Records  
-- Attendance Tracking  
-- Parent Dashboard  
+**Tech:** PHP  
+
+📌 Features:
+
+- Ordering system  
+- Inventory management  
+- Admin dashboard  
+- Menu management  
 
 🔗 Repo:  
-https://github.com/aliaa11/School_System_Node.js  
+https://github.com/ArwaEmamm/CafeteriaPHP_Project  
+
+---
+
+### 🎥 Short Video Social Platform (TikTok-like)
+
+**Tech:** Node.js + Express  
+
+📌 Features:
+
+- Video publishing system  
+- Authentication system  
+- Media handling logic  
+- Backend API architecture  
+
+🔗 Repo:  
+(Add your repo here)
+
+---
+
+### 🏠 Real Estate Rental Platform (Multi-Vendor)
+
+**Tech:** Laravel  
+
+📌 Features:
+
+- Multi-role system (Admin / Owner / Tenant)  
+- Property listing workflow  
+- Rental request management  
+- Maintenance request system  
+
+---
+
+### 📚 Online Courses Platform (Udemy-like)
+
+**Tech:** Laravel  
+
+📌 Features:
+
+- Course module system  
+- Video lessons and quizzes  
+- Subscription-based access  
+- Secure content protection  
+- Performance-optimized backend  
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Frontend
+
+React  
+Angular  
+Vue.js  
+HTML  
+CSS  
+JavaScript  
+TypeScript  
+
+---
+
+### 🔧 Backend
+
+Node.js  
+Express.js  
+Laravel  
+Django  
+NestJS  
+PHP  
+
+---
+
+### 🗃 Databases
+
+MongoDB  
+MySQL  
+PostgreSQL  
+
+---
+
+### ☁️ Cloud & Deployment
+
+Azure  
+AWS (Basics)  
+Firebase  
+cPanel  
+
+---
+
+### 🧰 Tools
+
+Git  
+GitHub  
+Postman  
+Linux  
+Bash  
+
+---
+
+### 🧱 Architecture
+
+RESTful APIs  
+MVC  
+OOP  
+SOLID Principles  
+
+---
+
+## 🎓 Education
+
+### 🎓 Information Technology Institute (ITI)
+
+Open Source Full-Stack Track  
+
+---
+
+### 🎓 Assiut University
+
+Bachelor of Computers and Information  
 
 ---
 
@@ -181,16 +237,43 @@ https://github.com/aliaa11/School_System_Node.js
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arwaemam2&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=ArwaEmamm&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwaemam2&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArwaEmamm&layout=compact&theme=tokyonight">
 
 </p>
 
 ---
 
-## 🌟 Fun Fact
+## 🌍 Languages
 
-💡 I enjoy building intuitive user interfaces and solving real-world problems through clean, maintainable code.
+Arabic — Native  
+English — Professional  
 
-☕ *"Clean code always matters."*
+---
+
+## 🌟 Soft Skills
+
+Communication  
+Teamwork  
+Problem Solving  
+Time Management  
+Adaptability  
+
+---
+
+## 📬 Contact Me
+
+📧 Email: arwaemam2002@gmail.com  
+
+🔗 LinkedIn:  
+https://linkedin.com/in/arwa-emam  
+
+📍 Location: Cairo, Egypt  
+
+---
+
+## ☕ Personal Note
+
+I enjoy building scalable backend systems and designing architectures that support real-world business workflows.  
+Clean code, secure APIs, and performance optimization are always my priorities.
