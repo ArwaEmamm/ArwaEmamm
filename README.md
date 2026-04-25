@@ -247,8 +247,8 @@ Bachelor of Computers and Information
 
 ## 🌍 Languages
 
-Arabic — Native  
-English — Professional  
+Arabic 
+English 
 
 ---
 
